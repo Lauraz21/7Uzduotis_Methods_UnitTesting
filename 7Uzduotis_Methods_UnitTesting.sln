@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Uzduotis_Methods_UnitTesting", "7Uzduotis_Methods_UnitTesting\7Uzduotis_Methods_UnitTesting.csproj", "{4C8B9693-070A-4D62-A17D-8380C1166AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test7_Methods", "Test7_Methods\Test7_Methods.csproj", "{60A279A4-657B-400B-81FA-483913611C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8B9693-070A-4D62-A17D-8380C1166AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8B9693-070A-4D62-A17D-8380C1166AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8B9693-070A-4D62-A17D-8380C1166AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8B9693-070A-4D62-A17D-8380C1166AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A279A4-657B-400B-81FA-483913611C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A279A4-657B-400B-81FA-483913611C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A279A4-657B-400B-81FA-483913611C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A279A4-657B-400B-81FA-483913611C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FA0254-D765-4FB7-BC64-ED0B2C12E7F1}
+	EndGlobalSection
+EndGlobal
